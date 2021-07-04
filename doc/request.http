@@ -1,0 +1,5 @@
+GET http://localhost:8080/greeting?name=Vasiliy
+
+###
+
+POST http://localhost:8080/actuator/refresh
